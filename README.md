@@ -1,5 +1,5 @@
-# eili5
+# Explain it like i'm 5
 
-This repo acts as a site placeholder
+New site documenting all things eili5
 
-https://isaacoldwood.github.io/site-in-progress/
+https://eili5.netlify.app/
