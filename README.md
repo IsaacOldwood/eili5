@@ -1,5 +1,5 @@
-# Explain it like i'm 5
+# Explain like i'm 5
 
-New site documenting all things eili5
+New site documenting all things eli5
 
-https://eili5.netlify.app/
+https://eli5.netlify.app/
