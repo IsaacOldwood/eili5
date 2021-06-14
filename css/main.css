@@ -73,6 +73,17 @@ span.ask, span.answer {
     display: inline-block;
 }
 
+footer div {
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+}
+
+footer a {
+    text-decoration: none;
+    color: inherit;
+    font-size: 1.25em;
+}
+
 @media screen and (max-width: 460px) {
     nav.header > a {
         padding-left: 0.5em;
