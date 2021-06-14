@@ -57,13 +57,13 @@ p.answer {
     margin-right: 1em;
 }
 
-div.author {
+div.source {
     font-size: 1em;
     margin-left: 1em;
     margin-bottom: 0.5em;
 }
 
-div.author > a {
+div.source > a {
     text-decoration: none;
     color: inherit;
 }
