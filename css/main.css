@@ -63,14 +63,26 @@ div.source {
     margin-bottom: 0.5em;
 }
 
-div.source > a {
+div.source a {
     text-decoration: none;
     color: inherit;
+}
+
+span.ask, span.answer {
+    padding-left: 0.5em;
 }
 
 @media screen and (max-width: 460px) {
     nav.header > a {
         padding-left: 0.5em;
         padding-right: 0.5em;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    span.ask, span.answer {
+        padding-left: 0px;
+        padding-top: 0.15em;
+        display: block;
     }
 }
